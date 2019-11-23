@@ -1,7 +1,6 @@
 asn1crypto==0.24.0
 blinker==1.4
 blis==0.4.1
-bzr==2.7.0
 certifi==2018.8.24
 chardet==3.0.4
 configobj==5.0.6
