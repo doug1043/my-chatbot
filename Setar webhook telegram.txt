@@ -1,0 +1,1 @@
+https://api.telegram.org/bot940961290:AAFE7aPlyzmTin7Nw_J9QbGLzXR85WrWlJA/setWebhook?url=https://2db23eaa.ngrok.io/event/
