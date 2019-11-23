@@ -13,7 +13,7 @@ from core.models import Interaction
 from django.core.exceptions import ObjectDoesNotExist
 
 nlp = spacy.load('pt')
-nlp2 = spacy.load('/home/doug/Documentos/Projeto ChatBot/pedidos.md')
+nlp2 = spacy.load('/workspace/my-chatbot/pedidos.md')
 
 
 now = datetime.now()
