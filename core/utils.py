@@ -18,7 +18,7 @@ nlp2 = spacy.load('/workspace/my-chatbot/pedidos.md')
 
 now = datetime.now()
 
-TOKEN = '940961290:AAFE7aPlyzmTin7Nw_J9QbGLzXR85WrWlJA'
+TOKEN = 'token'
 
 chave = {}
 
