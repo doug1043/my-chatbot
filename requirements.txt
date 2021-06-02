@@ -79,7 +79,7 @@ tqdm==4.36.1
 ubuntu-advantage-tools==19.2
 ubuntu-drivers-common==0.0.0
 ufw==0.36
-urllib3==1.24.1
+urllib3==1.26.5
 wasabi==0.2.2
 wcwidth==0.1.7
 xkit==0.0.0
