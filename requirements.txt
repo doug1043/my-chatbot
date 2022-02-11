@@ -38,7 +38,7 @@ pandas==0.25.3
 plac==0.9.6
 pluggy==0.13.0
 preshed==3.0.2
-protobuf==3.6.1
+protobuf==3.15.0
 pt-core-news-sm==2.2.0
 py==1.8.0
 pycairo==1.16.2
