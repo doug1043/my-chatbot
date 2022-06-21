@@ -32,7 +32,7 @@ more-itertools==7.2.0
 multidict==4.5.2
 murmurhash==1.0.2
 netifaces==0.10.4
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.2
 pandas==0.25.3
 plac==0.9.6
